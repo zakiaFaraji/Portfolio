@@ -1,0 +1,29 @@
+const flatlistcontent = [
+  {
+    id: '1',
+    title: 'Babe Lgharbi',
+    image: require('../../../assets/images/homeflatlist/2.png'),
+  },
+  {
+    id: '2',
+    title: 'Artists',
+    description:
+      'Artists can share their art with the world and get inspired by other artists.',
+    image: require('../../../assets/images/homeflatlist/3.png'),
+  },
+  {
+    id: '3',
+    title: 'Post your art',
+    description: 'Post your art and get inspired by other artists.',
+    image: require('../../../assets/images/homeflatlist/4.png'),
+  },
+  {
+    id: '4',
+    title: 'And Get Paid for your Art',
+    description:
+      'Inspire others and get paid by those who like your art. That is the Arts_life way!',
+    image: require('../../../assets/images/homeflatlist/5.png'),
+  },
+];
+
+export default flatlistcontent;
